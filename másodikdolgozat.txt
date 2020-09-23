@@ -1,0 +1,13 @@
+a
+1.Mi a külömbség a teli és az üres elem között példával.
+a teli elemnek van záró tegje az ures nek nincs
+példa
+teli<p></p>
+üres:<img/>
+
+2.Sorolj fel három meta elemet?: 
+meta charset UTF-8,link,title
+
+3.Emmet utasítás átirása: p>({Példa}+span {ez itt egy példa}+{az Emet-ről})
+<p>példa<p>
+<p><span ez it egy péllda /span></p>
